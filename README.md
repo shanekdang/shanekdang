@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shanedang17@gmail.com**
 
-- ⚡ Fun fact **if code == "error": fix() if fix() returns error: rage()**
+- ⚡ Fun fact **if code == "error": fix() if fix() returns "error": rage()**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
